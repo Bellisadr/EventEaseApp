@@ -1,0 +1,103 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.aps
+*.bsc
+*.map
+*.stackdump
+*.opensdf
+*.sdf
+*.bak
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.ncb
+*.log
+*.binlog
+*.tlog
+*.lastbuildstate
+*.ide
+*.tmp
+*.intellisense.cache
+*.ipch
+*.testresults
+*.vstc
+*.vsdx
+*.suo
+*.user
+*.psess
+*.vspscc
+*.vssscc
+*.bak
+*.scc
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.cache
+packages/
+/packages/
+*.appx
+*.appxbundle
+*.msi
+*.msp
+*.msm
+*.xap
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+dist/
+build/
+publish/
+.publish/
+.build/
+.temp/
+artifacts/
+
+# Temporary files
+*.~
+*.bak
+*.tmp
+*.log
+*.old
+*.resharper
+*.userprefs
+
+# Resharper
+*.dotSettings
+_ReSharper.*/
+
+# Rider
+.idea/
+*.sln.DotSettings
+*.csproj.DotSettings
+
+# xUnit
+testresults/
+
+# Azure
+.azure/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Local development files
+appsettings.Development.json
+launchSettings.json
