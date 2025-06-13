@@ -38,3 +38,5 @@ Tecnologias Utilizadas
 
 - Pré-requisitos
 Certifique-se de ter o .NET 9.0 SDK instalado em seu sistema.
+
+link website: https://bellisadr.github.io/EventEaseApp/
